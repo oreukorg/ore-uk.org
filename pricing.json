@@ -1,0 +1,95 @@
+{
+  "currency": "GBP",
+  "access_window_months": 6,
+  "checkout_status": "coming_soon",
+  "skus": [
+    {
+      "id": "part2_standard",
+      "name": "Part 2 Standard",
+      "subtitle": "OSCE scenarios + Medical emergencies",
+      "price_gbp": 109,
+      "tier": "standard",
+      "featured": true,
+      "includes": [
+        "OSCE scenario practice",
+        "Medical emergencies (oral viva + verbal BLS)"
+      ],
+      "attempts": {
+        "osce_per_station": 1,
+        "me_total": 1
+      }
+    },
+    {
+      "id": "part2_pro",
+      "name": "Part 2 Pro",
+      "subtitle": "OSCE scenarios + Medical emergencies",
+      "price_gbp": 149,
+      "tier": "pro",
+      "featured": true,
+      "includes": [
+        "OSCE scenario practice",
+        "Medical emergencies (oral viva + verbal BLS)"
+      ],
+      "attempts": {
+        "osce_per_station": 3,
+        "me_total": 3
+      }
+    },
+    {
+      "id": "osce_standard",
+      "name": "OSCE Standard",
+      "subtitle": "OSCE scenarios only",
+      "price_gbp": 79,
+      "tier": "standard",
+      "featured": false,
+      "includes": [
+        "OSCE scenario practice"
+      ],
+      "attempts": {
+        "osce_per_station": 1
+      }
+    },
+    {
+      "id": "osce_pro",
+      "name": "OSCE Pro",
+      "subtitle": "OSCE scenarios only",
+      "price_gbp": 109,
+      "tier": "pro",
+      "featured": false,
+      "includes": [
+        "OSCE scenario practice"
+      ],
+      "attempts": {
+        "osce_per_station": 3
+      }
+    },
+    {
+      "id": "me_standard",
+      "name": "ME Standard",
+      "subtitle": "Medical emergencies only",
+      "price_gbp": 59,
+      "tier": "standard",
+      "featured": false,
+      "includes": [
+        "Medical emergencies (oral viva + verbal BLS)"
+      ],
+      "attempts": {
+        "me_total": 1
+      }
+    },
+    {
+      "id": "me_pro",
+      "name": "ME Pro",
+      "subtitle": "Medical emergencies only",
+      "price_gbp": 89,
+      "tier": "pro",
+      "featured": false,
+      "includes": [
+        "Medical emergencies (oral viva + verbal BLS)"
+      ],
+      "attempts": {
+        "me_total": 3
+      }
+    }
+  ]
+}

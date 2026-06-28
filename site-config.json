@@ -1,0 +1,10 @@
+{
+  "app_name": "ORE-UK.ORG",
+  "support_email": "oreukorg@gmail.com",
+  "interest_form_url": "https://forms.gle/NcTpKtTfis7xZNoQ6",
+  "prefer_form_over_email": true,
+  "app_register_url": "",
+  "github_org": "https://github.com/oreukorg",
+  "github_repo": "https://github.com/oreukorg/ore-uk.org.git",
+  "github_pages_url": "https://oreukorg.github.io/ore-uk.org/"
+}

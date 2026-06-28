@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-06-28",
+  "access_window_months": 6,
+  "osce": {
+    "actor_scenario_library": 304,
+    "written_desk_stations": 15,
+    "practical_study_topics": 8,
+    "circuit": {
+      "template_id": "standard_17",
+      "title": "Standard 17-station circuit",
+      "active_stations": 17,
+      "total_slots": 24,
+      "description": "Official-style circuit: 17 active stations across actor, written desk, and practical study slots (rest and pilot slots do not score)."
+    }
+  },
+  "medical_emergencies": {
+    "themes": 11,
+    "oral_viva_questions": 180,
+    "description": "Oral viva stems plus verbal BLS practice \u2014 no manikin, aligned with official ME examiner format."
+  },
+  "copy": {
+    "station_definition": "A timed OSCE scenario with a simulated patient or desk task, followed by structured feedback.",
+    "circuit_definition": "A continuous mock exam session that sequences multiple stations under circuit timing, similar to the official OSCE sitting.",
+    "me_definition": "Medical emergency oral viva and verbal BLS \u2014 procedural timing and examiner stems, not hands-on CPR training."
+  }
+}

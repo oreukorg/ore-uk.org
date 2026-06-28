@@ -1,0 +1,47 @@
+{
+  "last_updated": "2026-06-28",
+  "controller_name": "ORE-UK.ORG",
+  "contact_email": "oreukorg@gmail.com",
+  "sections": [
+    {
+      "title": "Who we are",
+      "body": "ORE-UK.ORG provides independent online practice for the UK ORE Part 2 exam. We are not affiliated with the General Dental Council (GDC) or the official ORE examination."
+    },
+    {
+      "title": "What this policy covers",
+      "body": "This policy explains how we handle personal data when you register interest via our Google Form, visit this prelaunch website, or contact us by email."
+    },
+    {
+      "title": "Data we collect",
+      "body": "Through the register-interest form we may collect: your email address, name (if provided), preferred package, planned exam timing, practice interests, how you heard about us, and any optional message you submit. Google Forms also records a submission timestamp. We do not collect payment details on this prelaunch site."
+    },
+    {
+      "title": "How we use your data",
+      "body": "We use your information to: notify you when paid checkout launches; understand demand for packages; and improve our product. We do not sell your personal data."
+    },
+    {
+      "title": "Legal basis (UK GDPR)",
+      "body": "We process waitlist data based on your consent (when you submit the form and agree to be contacted) and our legitimate interest in operating a prelaunch waitlist for an educational service."
+    },
+    {
+      "title": "Google Forms",
+      "body": "Responses are stored in Google Forms / Google Sheets. Google's privacy policy applies to their processing: https://policies.google.com/privacy. We access responses only through our Google account for launch communications."
+    },
+    {
+      "title": "How long we keep data",
+      "body": "We keep waitlist entries until you ask us to delete them or until they are no longer needed for launch communications (typically up to 24 months after your last interaction), whichever is sooner."
+    },
+    {
+      "title": "Your rights",
+      "body": "You may request access, correction, or deletion of your data, or withdraw consent, by emailing us. You may complain to the UK Information Commissioner's Office (ICO) if you believe your data has been mishandled."
+    },
+    {
+      "title": "Cookies",
+      "body": "This static prelaunch site does not use analytics cookies. If you follow links to Google Forms, Google's cookies may apply on their domain."
+    },
+    {
+      "title": "Changes",
+      "body": "We may update this policy. The last updated date is shown at the top of this page."
+    }
+  ]
+}
