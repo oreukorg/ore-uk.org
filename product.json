@@ -1,12 +1,11 @@
 {
-  "hero_subline": "Timed OSCE stations, desk tasks, practical checklists, and ME vivas with structured feedback on what you actually did \u2014 built for ORE Part 2 candidates.",
+  "hero_subline": "Timed OSCE stations, desk tasks, practical checklists, and ME vivas with structured feedback on what you actually did. Create a free account to try one OSCE station and one ME theme.",
   "trial_section": {
     "title": "Try before you buy",
-    "lead": "Create a free account and run the same trial for every candidate \u2014 one actor OSCE station and one medical-emergency theme. No card required.",
+    "lead": "Create a free account for one actor OSCE station and one medical-emergency theme. No card required.",
     "bullets": [
       "One timed OSCE station with simulated patient and full feedback report",
       "One ME oral practice session on a fixed theme (anaphylaxis)",
-      "Same trial content for every account \u2014 fair sample of the platform",
       "No reattempt on trial; upgrade for the full library and Pro reattempts"
     ],
     "cta_label": "Create free account"
