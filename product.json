@@ -1,0 +1,143 @@
+{
+  "hero_subline": "Timed OSCE stations, desk tasks, practical checklists, and medical-emergency vivas \u2014 you interact, submit your work, and get structured feedback mapped to what you actually did.",
+  "experience_section": {
+    "title": "What you actually do",
+    "lead": "No stock photos or demo videos needed: every format mirrors how you work in the exam cubicle or at the desk. You type, choose, and converse \u2014 the platform scores your real inputs."
+  },
+  "formats": [
+    {
+      "id": "actor",
+      "label": "Actor OSCE stations",
+      "tag": "304 scenarios",
+      "summary": "Read the station brief, then chat with a simulated patient or relative under exam timing.",
+      "bullets": [
+        "One-minute reading time, then five-minute active station (official-style timing)",
+        "Type your questions and explanations \u2014 the patient responds in character",
+        "Hidden clinical facts unlock only when you ask appropriately (like a real actor station)",
+        "Emotion and trust shift based on how you communicate"
+      ]
+    },
+    {
+      "id": "written",
+      "label": "Written desk stations",
+      "tag": "15 tasks",
+      "summary": "Unstaffed desk work: prescriptions, radiograph reports, HTM audit forms, treatment plans, and referral letters.",
+      "bullets": [
+        "Fill structured forms and free-text fields \u2014 not multiple choice",
+        "Radiograph stations score against verification tables for findings you report",
+        "Prescription and HTM tasks check dose, safety, and documentation detail",
+        "Submit when ready; marking runs against the station rubric"
+      ]
+    },
+    {
+      "id": "practical",
+      "label": "Practical study topics",
+      "tag": "8 topics",
+      "summary": "Self-practice checklists for hands-on technique \u2014 examiner mark-sheet style, not a live manikin exam.",
+      "bullets": [
+        "Work through step-by-step procedures at your own pace",
+        "Tick off checklist items as you would on an examiner sheet",
+        "Band your overall performance (exceeds / meets / below standard)",
+        "See which critical steps you missed before you sit the real OSCE"
+      ]
+    },
+    {
+      "id": "me",
+      "label": "Medical emergencies",
+      "tag": "11 themes \u00b7 180 questions",
+      "summary": "Oral viva stems plus verbal BLS practice \u2014 procedural timing and examiner questions, not hands-on CPR coaching.",
+      "bullets": [
+        "Answer viva questions aloud in your own words (typed submission)",
+        "Verbal BLS walkthrough with timing prompts aligned to examiner format",
+        "Themes cover anaphylaxis, asthma, hypoglycaemia, syncope, arrest, emergency drugs, and more",
+        "Structured review against canonical management steps"
+      ]
+    },
+    {
+      "id": "circuit",
+      "label": "17-station circuit mock",
+      "tag": "24 slots",
+      "summary": "Run a continuous mock exam session \u2014 actor, written, and practical slots sequenced with rest and pilot breaks that do not score.",
+      "bullets": [
+        "Official-style circuit flow: active stations, rest slots, and pilot slots",
+        "Station-to-station timing like exam day",
+        "Build stamina and pacing before you pay for a physical mock course",
+        "Review each station after the circuit or return to weak areas in the library"
+      ]
+    }
+  ],
+  "feedback_section": {
+    "title": "Feedback based on your performance",
+    "lead": "When you end a session, review is generated from what you submitted \u2014 transcript, forms, checklist ticks, or viva answers \u2014 not generic tips."
+  },
+  "feedback_items": [
+    {
+      "title": "Pass / fail and domain scores",
+      "body": "Overall outcome plus rubric domains (history, diagnosis, management, communication, professionalism) scored against station criteria."
+    },
+    {
+      "title": "Checklist guidance",
+      "body": "Item-by-item breakdown of what you met, missed, or critically failed \u2014 linked to GDC-style marking language."
+    },
+    {
+      "title": "Strengths and gaps",
+      "body": "Concrete strengths, improvements, and missed items drawn from your session, with evidence quotes from your transcript where relevant."
+    },
+    {
+      "title": "Common mistake callouts",
+      "body": "Pitfalls catalogued for that station type \u2014 surfaced when your attempt matches a known weak pattern."
+    },
+    {
+      "title": "Official guidance links",
+      "body": "ORE-aligned guidance excerpts and learning resources so you know what examiners expect next time."
+    },
+    {
+      "title": "Reattempt tracking",
+      "body": "Standard plans include one completed attempt per station; Pro includes three so you can practise, review, and improve before your allowance runs out."
+    }
+  ],
+  "value_section": {
+    "title": "Why candidates pay for structured practice",
+    "lead": "Physical mock circuits and revision courses cost hundreds of pounds for a single day. ORE-UK.ORG gives you a full library, exam-style interaction, and personalised feedback you can repeat on your schedule."
+  },
+  "value_points": [
+    {
+      "title": "Real interaction, not passive revision",
+      "body": "You are not watching videos or tapping flashcards \u2014 you run timed stations and submit work exactly as in the cubicle."
+    },
+    {
+      "title": "Hundreds of stations in one subscription",
+      "body": "304 actor scenarios plus written, practical, circuit, and ME content \u2014 far more variety than a one-day mock."
+    },
+    {
+      "title": "Feedback you can act on",
+      "body": "Every attempt ends with a review page: scores, checklists, and next steps \u2014 so you know what to fix before exam day."
+    },
+    {
+      "title": "Six months of access",
+      "body": "Paid packages include six months from purchase (when checkout launches) \u2014 spread practice across your revision timeline."
+    }
+  ],
+  "how_it_works": {
+    "title": "How it works",
+    "lead": "From registration to review in four steps \u2014 the same flow for OSCE stations, circuit mocks, and medical emergencies.",
+    "steps": [
+      {
+        "title": "Choose your focus",
+        "body": "Pick a single station, a written desk task, a practical topic, an ME theme, or a full circuit mock from the library."
+      },
+      {
+        "title": "Run under exam conditions",
+        "body": "Reading time, timers, and station rules match official OSCE / ME format. Interact with the patient, complete forms, or answer viva stems."
+      },
+      {
+        "title": "Submit and finish",
+        "body": "End the station when time is up or you have completed the task. Your inputs are saved for marking."
+      },
+      {
+        "title": "Review and improve",
+        "body": "Open your feedback report: domains, checklists, critical fails, and guidance. Reattempt on Pro plans while you still have allowance."
+      }
+    ]
+  }
+}
