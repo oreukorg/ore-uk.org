@@ -1,5 +1,17 @@
 {
-  "hero_subline": "Timed OSCE stations, desk tasks, practical checklists, and medical-emergency vivas \u2014 you interact, submit your work, and get structured feedback mapped to what you actually did.",
+  "hero_subline": "Start with a free trial \u2014 one actor OSCE station and one medical-emergency theme \u2014 then unlock the full library when you subscribe. Timed stations, desk tasks, practical checklists, and ME vivas with structured feedback on what you actually did.",
+  "trial_section": {
+    "title": "Try before you buy",
+    "lead": "Create a free account and run the same trial for every candidate \u2014 one actor OSCE station and one medical-emergency theme. No card required.",
+    "bullets": [
+      "One timed OSCE station with simulated patient and full feedback report",
+      "One ME oral practice session on a fixed theme (anaphylaxis)",
+      "Same trial content for every account \u2014 fair sample of the platform",
+      "No reattempt on trial; upgrade for the full library and Pro reattempts"
+    ],
+    "cta_label": "Create free account"
+  },
+  "pricing_lead": "Free trial: one OSCE station + one ME theme (no reattempt). Paid Standard: full library, one attempt per station / one ME session. Pro: three attempts. Online checkout opening soon.",
   "experience_section": {
     "title": "What you actually do",
     "lead": "No stock photos or demo videos needed: every format mirrors how you work in the exam cubicle or at the desk. You type, choose, and converse \u2014 the platform scores your real inputs."
@@ -93,12 +105,12 @@
     },
     {
       "title": "Reattempt tracking",
-      "body": "Standard plans include one completed attempt per station; Pro includes three so you can practise, review, and improve before your allowance runs out."
+      "body": "Free trial = one attempt each on the fixed OSCE station and ME theme. Paid Standard and Pro include reattempts per plan."
     }
   ],
   "value_section": {
     "title": "Why candidates pay for structured practice",
-    "lead": "Physical mock circuits and revision courses cost hundreds of pounds for a single day. ORE-UK.ORG gives you a full library, exam-style interaction, and personalised feedback you can repeat on your schedule."
+    "lead": "Try the platform free, then subscribe for the full library. Physical mock circuits cost hundreds of pounds for a single day \u2014 ORE-UK.ORG gives you hundreds of stations, exam-style interaction, and personalised feedback on your schedule."
   },
   "value_points": [
     {
@@ -121,10 +133,11 @@
   "how_it_works": {
     "title": "How it works",
     "lead": "From registration to review in four steps \u2014 the same flow for OSCE stations, circuit mocks, and medical emergencies.",
+    "access_note": "Free trial available now on the live app. Paid checkout opening soon \u2014 register your interest to be notified.",
     "steps": [
       {
         "title": "Choose your focus",
-        "body": "Pick a single station, a written desk task, a practical topic, an ME theme, or a full circuit mock from the library."
+        "body": "Start with the free trial OSCE station and ME theme, or browse the full library after you subscribe."
       },
       {
         "title": "Run under exam conditions",
@@ -136,7 +149,7 @@
       },
       {
         "title": "Review and improve",
-        "body": "Open your feedback report: domains, checklists, critical fails, and guidance. Reattempt on Pro plans while you still have allowance."
+        "body": "Open your feedback report: domains, checklists, critical fails, and guidance. Reattempt on paid Pro plans while you still have allowance."
       }
     ]
   }
