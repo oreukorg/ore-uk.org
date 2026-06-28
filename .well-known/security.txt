@@ -1,0 +1,5 @@
+Contact: mailto:oreukorg@gmail.com
+Expires: 2027-06-28T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://ore-uk.org/.well-known/security.txt
+Policy: https://ore-uk.org/privacy.html
